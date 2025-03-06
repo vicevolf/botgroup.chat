@@ -38,7 +38,7 @@ export const groups: Group[] = [
   },
   {
     id: 'group5',
-    name: '🐱秃然鼓励联盟',
+    name: '🐱代码鼓励联盟',
     description: '本群专治代码报错、需求离谱、深夜emo，请用「代码片段+人话解释」回复，可玩梗但别跑题。遇到玄学bug建议转锦鲤，代码跑通时记得放个猫猫🐱，禁止深夜放毒（问题除外）。每个问题最多回1条最扎心的建议或最缺德的鼓励。',
     isGroupDiscussionMode: true,
     members: [ 'ai8', 'ai5', 'ai6', 'ai7', 'ai9', 'ai4', 'ai10'],
