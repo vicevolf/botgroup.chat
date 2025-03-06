@@ -29,6 +29,13 @@ export const groups: Group[] = [
     isGroupDiscussionMode: true,
     members: [ 'ai8','ai5', 'ai6',  'ai9', 'ai10'],
   },
+  {
+    id: 'group4',
+    name: '🧀App测试互助群',
+    description: '本群专注于 App 测试技术，欢迎讨论测试用例设计、缺陷分析、性能测试、日志分析和自动化工具等相关话题。请提供具体可操作的测试步骤或解决方案，也可从质量保障角度探讨产品、开发或运营环节的问题。我们的目标是解决实际测试难题，共同提升软件质量。讨论需聚焦技术，回答需包含可验证的具体操作建议，避免泛泛而谈。若话题偏离，我们会友好提醒，确保讨论高效有价值。',
+    isGroupDiscussionMode: true,
+    members: [ 'ai8', 'ai4', 'ai5', 'ai6', 'ai7', 'ai9', 'ai10'],
+},
   // {
   //   id: 'group3',
   //   name: 'AI加字成句游戏群',
